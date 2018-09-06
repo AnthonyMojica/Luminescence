@@ -1,0 +1,11 @@
+Library
+ProjectSettings
+obj
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.sln
+*.csproj
+*.unityproj
+Temp

@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menus\MainMenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Menus\MainMenu.cs" Line="925" Column="4" />
+      <File FileName="Assets\Scripts\World\SaveTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Reinforced.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\Bosses\BossAIMorrius.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\Regular\AICommander.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UpdateToolText.cs" Line="1" Column="1" />
+      <File FileName="Assets\BGM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChestScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Options.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spells\SpellOrbOfLight.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\Jean-Francois\Desktop\Luminescence\Okayfurrealitsgonnaworkthistime\Assets\Scripts\Utilities.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Jean-Francois\Desktop\Luminescence\Okayfurrealitsgonnaworkthistime\Assets\Scripts\ChestScript.cs" line="65" />
+      <Breakpoint file="C:\Users\Jean-Francois\Desktop\Luminescence\Okayfurrealitsgonnaworkthistime\Assets\Scripts\Player\PlayerEquipment.cs" line="59" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
